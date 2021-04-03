@@ -14,7 +14,7 @@ namespace A133590.Ejercicio36
             {
                 Console.Write("Ingreso inválido, intente nuevamente: ");
             }
-            Console.WriteLine("Ingreso válido.")
+            Console.WriteLine("Ingreso válido.");
             Console.WriteLine("Presione cualquier tecla para continuar..");
             Console.ReadKey();
         }
